@@ -1,5 +1,5 @@
 # easierStorage
-easierStorage makes it easier to work with localStorage by allowing you to read, write or delete into localStorage without checking whether every item in the object chain exists.
+easierStorage makes it dead simple to work with tree structures that are stored in localStorage.
 
 ## Examples
 ```
